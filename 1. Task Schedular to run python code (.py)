@@ -1,4 +1,5 @@
-# to see python.exe file from cmd
+#RUN PYTHON CODE VIA TASK SCHEDULAR
+#to see python.exe file from cmd
 
 Open CMD and type "where python" # it will give the path location.
 

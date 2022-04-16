@@ -1,10 +1,19 @@
 # to see python.exe file from cmd
+
 Open CMD and type "where python" # it will give the path location.
+
 Open Task Schedular.
+
 Create task from right side panel.
+
 Give name
+
 trigger time
+
 Action Type:
+  
   Program/Script  C:\Users\pbehera\AppData\Local\Programs\Python\Python310\python.exe  # python application location
+  
   Add a argument  task.py # file name
+  
   Start in Optional C:\Users\pbehera\PycharmProjects\First_Project_pycharm  # refer 9, add file path location
